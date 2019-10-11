@@ -1,1 +1,1 @@
-# frorm-validation-with-vanila.js
+# form-validation-with-vanila.js
